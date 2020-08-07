@@ -1,4 +1,4 @@
-<a href='https://github.com/relatedcode/appdesignkit'><img src="https://relatedcode.com/github/header18.png" width="880"></a>
+<img src="https://relatedcode.com/github/header14.png" width="880">
 
 ## OVERVIEW
 
